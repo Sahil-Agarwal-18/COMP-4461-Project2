@@ -1,0 +1,27 @@
+{
+   "Monday": {
+                             "Ibuprofen": "2 tabs of 100mg each, one in the morning and one in the evening;",
+                             "Paracetamol": "1 tab of 100mg, after lunch"
+                          },
+   "Tuesday": {
+                             "Paracetamol": "1 tab of 100mg, after lunch"
+                          },
+   "Wednesday": {
+                             "Ibuprofen": "2 tabs of 100mg each, one in the morning and one in the evening;",
+                             "Paracetamol": "1 tab of 100mg, after lunch"
+                          },
+   "Thursday": {
+                             "Vitamin D": "1 tab of 50 mg, after breakfast;",
+                             "Paracetamol": "1 tab of 100mg, after lunch"
+                          },
+   "Friday": {
+                             "Paracetamol": "1 tab of 100mg, after lunch"
+                          },
+   "Saturday":{
+                          },
+   "Sunday": {
+                             "Amoxicillin": "3 tabs of 50mg, one after each meal;",
+                             "Paracetamol": "1 tab of 100mg, after lunch;",
+                             "Levothyroxine": "1 tab of 33mg, if needed"
+                          }
+}
